@@ -1,0 +1,4 @@
+[package]
+name = "game-sim"
+version.workspace = true
+edition.workspace = true

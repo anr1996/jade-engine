@@ -1,0 +1,4 @@
+[package]
+name = "engine-anim"
+version.workspace = true
+edition.workspace = true

@@ -1,0 +1,4 @@
+[package]
+name = "engine-audio"
+version.workspace = true
+edition.workspace = true
