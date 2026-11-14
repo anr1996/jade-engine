@@ -1,0 +1,4 @@
+[package]
+name = "engine-platform"
+version.workspace = true
+edition.workspace = true
