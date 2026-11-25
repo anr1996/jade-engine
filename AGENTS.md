@@ -35,3 +35,4 @@ open-world RPG. It is a Cargo workspace with one crate per area.
 ## Git
 - Commit only on your branch. Message format: "<ID>: <summary>"
 - Never push. Never rewrite history.
+- Never run git config. Your identity is provided by the lead.
