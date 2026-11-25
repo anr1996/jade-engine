@@ -2,3 +2,7 @@
 name = "engine-core"
 version.workspace = true
 edition.workspace = true
+
+[dependencies]
+bevy_ecs = "0.20.1"
+glam = "0.34.3"
