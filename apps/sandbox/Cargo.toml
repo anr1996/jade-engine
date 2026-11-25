@@ -2,3 +2,6 @@
 name = "sandbox"
 version.workspace = true
 edition.workspace = true
+
+[dependencies]
+engine-core = { path = "../../crates/engine-core" }
